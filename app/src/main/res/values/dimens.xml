@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_bar_left_margin">22.5dp</dimen>
+    <dimen name="title_bar_top_margin">24.5dp</dimen>
+    <dimen name="title_divider_left_margin">6dp</dimen>
+    <dimen name="title_divider_top_margin">-1dp</dimen>
+</resources>
